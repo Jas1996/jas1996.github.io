@@ -1,0 +1,14 @@
+body{
+	background-color: rgba(0, 150, 136, 0.27);
+}
+.card{
+	   margin-bottom: 50px;
+}  
+.main-heading{
+	text-align: center;
+	font-family: 'Lobster', cursive;
+	font-size:100px;
+}
+.card-title{
+	font-family: 'Playfair Display', serif;
+}
